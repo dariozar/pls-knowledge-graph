@@ -1,6 +1,6 @@
 ---
 title: Lezione 02 - Fenomeni Emergenti e Leggi di Potenza
-date: 2024-04-30
+date: 2026-04-02
 tags:
   - lezione
   - fisica-statistica
@@ -10,17 +10,25 @@ aliases:
   - Lezione 2 - Fenomeni Emergenti e Leggi di Potenza
 source: SLIDES/Lezione_PLS_FIS-STAT-SIST-COMPL_02.pptx
 ---
+Questa lezione approfondisce il concetto di [[Fenomeni Emergenti]] attraverso esempi biologici e introduce le [[Leggi di Potenza|leggi di potenza]] e la [[Legge di Zipf]], mostrandone alcune applicazioni.
 
-# Lezione 02 - Fenomeni Emergenti e Leggi di Potenza
 
-Questa lezione approfondisce il concetto di [[Fenomeni Emergenti]] attraverso esempi biologici e introduce le [[Leggi di Potenza|leggi di potenza]] e la [[Legge di Zipf]], con applicazioni in linguistica e genomica.
+## Esempi di [[Fenomeni Emergenti]]
+
+- Il fallimento del [[Riduzionismo]] in biologia
+	- Importanza degli effetti di nonlinearità
+	- [[Inverted Repeats]] nel genoma virale
+	- [[Brain Functional Network]]
+
+## Misurare l'[[Invarianza di Scala]]
+
+- Lo strumento: gli [[Istogrammi]] per misurare omogeneità ed eterogeneità
+- Il caso in cui le [[fluttuazioni]] divergono: le [[Leggi di Potenza]]
+	- Ubiquità della [[Legge di Zipf]]: linguistica, economia, accessi web, spartiti musicali, città, redditi, imprese, terremoti, genomica
 
 ## Riassunto degli slide
 
-### Slide 1-2: Introduzione
-- Docente: Salvatore Miccichè, Università degli Studi di Palermo, Dipartimento di Fisica e Chimica Emilio Segrè.
-- Data: 30 Aprile 2024.
-- Argomenti: introduzione al concetto di complessità, fenomeni collettivi, [[Herding|herding]], [[Fenomeni Emergenti|fenomeni emergenti]], scaling.
+
 
 ### Slide 3-5: Emergenza e riduzionismo
 - Riferimenti a Mazzocchi (EMBO Rep. 2008) e De Haan (Ecol Compl, 2006) su emergenza e fallimento del [[Riduzionismo|riduzionismo]] in biologia.

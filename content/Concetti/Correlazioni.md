@@ -1,6 +1,6 @@
 ---
 title: Correlazioni
-date: 2024-04-16
+date: 2026-03-26
 tags:
   - fisica-statistica
   - statistica
@@ -10,9 +10,6 @@ aliases:
   - Correlations
 source: Lezione 01 - Introduzione alla Complessità
 ---
-
-# Correlazioni
-
 > [!definition] Correlazione tra serie temporali
 > La correlazione è una misura statistica della relazione lineare tra due o più variabili. Nel contesto dei sistemi complessi, si studiano le correlazioni tra le serie temporali delle componenti del sistema (es. prezzi di N azioni contemporaneamente negoziate). Il coefficiente di correlazione di Pearson quantifica la forza e la direzione della relazione lineare tra due serie.
 

@@ -1,6 +1,6 @@
 ---
 title: Modelli ad Agente
-date: 2024-04-16
+date: 2026-03-26
 tags:
   - fisica-statistica
   - simulazione
@@ -10,9 +10,6 @@ aliases:
   - ABM
 source: Lezione 01 - Introduzione alla Complessità
 ---
-
-# Modelli ad Agente
-
 > [!definition] Modello ad agente
 > Un modello ad agente (Agent-Based Model, ABM) è una classe di modelli computazionali per simulare le azioni e le interazioni di agenti autonomi (singoli entità come individui, famiglie, cellule) all'interno di un ambiente, al fine di comprendere il comportamento emergente del sistema nel suo complesso. Ogni agente obbedisce a regole semplici; il sistema complessivo è l'esito delle interazioni.
 

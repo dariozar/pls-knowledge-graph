@@ -1,5 +1,6 @@
 ---
 title: Distribuzione Chi-Quadrato
+date: 2026-04-02
 tags:
   - statistica
   - test-statistici
@@ -11,9 +12,6 @@ aliases:
   - Chi-Squared Distribution
 source: Lezione 02 - Fenomeni Emergenti e Leggi di Potenza
 ---
-
-# Distribuzione Chi-Quadrato
-
 > [!definition] Distribuzione Chi-Quadrato
 > La distribuzione chi-quadrato (χ²) di Pearson è una distribuzione di probabilità continua utilizzata in statistica inferenziale. È definita come la distribuzione della somma dei quadrati di $k$ variabili normali standard indipendenti:
 >

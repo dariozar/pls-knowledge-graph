@@ -1,6 +1,6 @@
 ---
 title: Herding
-date: 2024-04-16
+date: 2026-03-26
 tags:
   - fisica-statistica
   - fenomeni-collettivi
@@ -10,9 +10,6 @@ aliases:
   - Herding Behavior
 source: Lezione 01 - Introduzione alla Complessità
 ---
-
-# Herding
-
 > [!definition] Herding (effetto gregge)
 > L'herding è un comportamento collettivo che si manifesta in animali sociali (oche, scarafaggi, pecore) e in sistemi complessi umani (mercati finanziari, folle), caratterizzato dalla tendenza a muoversi seguendo i vicini indipendentemente dalla direzione di destinazione. In finanza, si riferisce alla tendenza degli investitori a seguire le scelte degli altri, ignorando le proprie informazioni private.
 

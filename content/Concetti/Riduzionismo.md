@@ -1,6 +1,6 @@
 ---
 title: Riduzionismo
-date: 2024-04-16
+date: 2026-03-26
 tags:
   - fisica-statistica
   - metodologia
@@ -9,9 +9,6 @@ aliases:
   - Reductionism
 source: Lezione 01 - Introduzione alla Complessità
 ---
-
-# Riduzionismo
-
 > [!definition] Riduzionismo scientifico
 > Il riduzionismo è l'approccio scientifico che mira a spiegare fenomeni complessi riducendoli a leggi fondamentali più semplici. Si presume che, conoscendo le leggi che governano le componenti elementari, sia possibile comprendere il comportamento dell'intero sistema. Questo approccio è alla base della fisica classica e della meccanica quantistica.
 

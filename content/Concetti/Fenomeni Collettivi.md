@@ -1,6 +1,6 @@
 ---
 title: Fenomeni Collettivi
-date: 2024-04-16
+date: 2026-03-26
 tags:
   - fisica-statistica
   - fenomeni-collettivi
@@ -9,9 +9,6 @@ aliases:
   - Collective Phenomena
 source: Lezione 01 - Introduzione alla Complessità
 ---
-
-# Fenomeni Collettivi
-
 > [!definition] Fenomeno collettivo
 > Un fenomeno collettivo è un comportamento emergente che si manifesta in un gruppo di agenti (persone, animali, particelle) a seguito di interazioni locali tra di essi, senza un controllo centrale. Esempi tipici includono la formazione di file in flussi bidirezionali di pedoni, le onde stop-and-go nelle folle ad alta densità e la formazione di greggi o stormi.
 

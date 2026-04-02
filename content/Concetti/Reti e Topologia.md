@@ -1,6 +1,6 @@
 ---
 title: Reti e Topologia
-date: 2024-04-16
+date: 2026-03-26
 tags:
   - fisica-statistica
   - reti
@@ -10,9 +10,6 @@ aliases:
   - Grafi
 source: Lezione 01 - Introduzione alla Complessità
 ---
-
-# Reti e Topologia
-
 > [!definition] Rete (grafo)
 > Una rete (o grafo) è una struttura composta da nodi (o vertici) collegati da link (o archi). I nodi rappresentano entità (es. persone, aeroporti, neuroni) e i link rappresentano relazioni o interazioni tra di esse. La topologia di una rete descrive il pattern di connessioni, indipendentemente dalla posizione geometrica dei nodi.
 

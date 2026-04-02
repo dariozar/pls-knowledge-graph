@@ -1,5 +1,6 @@
 ---
 title: Inverted Repeats
+date: 2026-04-02
 tags:
   - biologia
   - genomica
@@ -10,9 +11,6 @@ aliases:
   - Sequenze Invertite Ripetute
 source: Lezione 02 - Fenomeni Emergenti e Leggi di Potenza
 ---
-
-# Inverted Repeats
-
 > [!definition] Inverted Repeats (IR)
 > Gli Inverted Repeats (IR) sono sequenze di nucleotidi in un genoma dove una sequenza di basi è seguita, a distanza variabile (loop), dalla sua sequenza complementare invertita. Quando un singolo filamento di RNA (o DNA a doppio filamento) presenta una sequenza IR, può formare una struttura a forcina (hairpin) nell'RNA o una struttura cruciforme nel DNA.
 

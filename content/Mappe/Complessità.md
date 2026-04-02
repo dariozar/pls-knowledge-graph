@@ -1,6 +1,6 @@
 ---
 title: MOC - Complessità
-date: 2024-04-16
+date: 2026-03-26
 tags:
   - MOC
   - complessità
@@ -8,9 +8,6 @@ aliases:
   - Map of Content - Complessità
 source: Lezione 01 e 02
 ---
-
-# MOC - Complessità
-
 Questa mappa del contenuto collega i concetti fondamentali della scienza dei sistemi complessi introdotti nella Lezione 01.
 
 ## Definizioni e approcci

@@ -1,5 +1,6 @@
 ---
 title: Istogrammi
+date: 2026-04-02
 tags:
   - statistica
   - misure
@@ -9,9 +10,6 @@ aliases:
   - Histogram
 source: Lezione 02 - Fenomeni Emergenti e Leggi di Potenza
 ---
-
-# Istogrammi
-
 > [!definition] Istogramma
 > Un istogramma è un grafico che rappresenta la distribuzione di frequenza di un insieme di dati. L'asse orizzontale riporta gli intervalli (bin) e l'asse verticale mostra il numero di osservazioni in ciascun intervallo. Al limite di un numero infinito di misure, l'istogramma tende alla funzione di densità di probabilità continua $p(x)$.
 

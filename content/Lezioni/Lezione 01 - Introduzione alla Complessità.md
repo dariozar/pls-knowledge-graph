@@ -1,6 +1,6 @@
 ---
 title: Lezione 01 - Introduzione alla Complessità
-date: 2024-04-16
+date: 2026-03-26
 tags:
   - lezione
   - fisica-statistica
@@ -9,17 +9,32 @@ aliases:
   - Lezione 1 - Introduzione alla Complessità
 source: SLIDES/Lezione_PLS_FIS-STAT-SIST-COMPL_01.pptx
 ---
+Questa lezione fornisce un'introduzione ai concetti fondamentali dei sistemi complessi: dalla definizione di complessità ai fenomeni emergenti, dal riduzionismo ai modelli ad agente.
 
-# Lezione 01 - Introduzione alla Complessità
+## Sistemi Complessi e Termodinamica
 
-Questa lezione fornisce un'introduzione ai concetti fondamentali della scienza dei sistemi complessi, con particolare riferimento alla fisica statistica e alle sue applicazioni.
+- [[Sistemi Complessi]] — Definizione e caratteristiche dei sistemi composti da molte parti interagenti in cui i dettagli delle interazioni sono cruciali
+- [[Sistemi Termodinamici]] — Approccio termodinamico allo studio della complessità
 
-## Riassunto degli slide
+## Approcci Filosofici
 
-### Slide 1-3: Introduzione e definizioni
-- Titolo del corso: Fisica Statistica e Sistemi Complessi.
-- Docente: Salvatore Miccichè, Università degli Studi di Palermo.
-- Lezione dedicata all'introduzione del concetto di complessità.
+- [[Riduzionismo]] — Spiegare il tutto riducendolo alle sue componenti
+- [[Costruzionismo]] — Costruire la complessità a partire da regole semplici
+
+## Modelli e Fenomeni
+
+- [[Modelli ad Agente]] — Simulazioni computazionali basate su agenti individuali
+- [[Fenomeni Collettivi]] — Comportamenti emergenti dall'interazione di molti individui
+- [[Herding]] — Comportamento gregario e decisione collettiva
+- [[Fenomeni Emergenti]] — Proprietà che nascono dalle interazioni tra componenti
+
+## Proprietà dei Sistemi Complessi
+
+- [[Invarianza di Scala]] — Assenza di scale caratteristiche nei sistemi complessi
+- [[Correlazioni]] — Relazioni statistiche tra variabili
+- [[Reti e Topologia]] — Struttura di connessione nei sistemi complessi
+
+
 
 ### Slide 10-15: Sistemi Complessi vs Deterministici
 - Definizione di [[Sistemi Complessi]]: "punti materiali" interagenti in cui i dettagli delle interazioni sono cruciali.
