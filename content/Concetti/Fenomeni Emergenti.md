@@ -2,9 +2,6 @@
 title: Fenomeni Emergenti
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - emergenza
-  - auto-organizzazione
 aliases:
   - Emergent Phenomena
   - Emergenza

@@ -2,9 +2,6 @@
 title: Lezione 01 - Introduzione alla Complessità
 date: 2026-03-26
 tags:
-  - lezione
-  - fisica-statistica
-  - complessità
 aliases:
   - Lezione 1 - Introduzione alla Complessità
 source: SLIDES/Lezione_PLS_FIS-STAT-SIST-COMPL_01.pptx

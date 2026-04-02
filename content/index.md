@@ -2,7 +2,6 @@
 title: PLS in Fisica Statistica e Sistemi Complessi
 date: 2026-03-26
 tags:
-  - index
 aliases:
   - Home Page
 source: Creazione vault

@@ -2,10 +2,6 @@
 title: Lezione 02 - Fenomeni Emergenti e Leggi di Potenza
 date: 2026-04-02
 tags:
-  - lezione
-  - fisica-statistica
-  - emergenza
-  - leggi-di-potenza
 aliases:
   - Lezione 2 - Fenomeni Emergenti e Leggi di Potenza
 source: SLIDES/Lezione_PLS_FIS-STAT-SIST-COMPL_02.pptx

@@ -2,10 +2,6 @@
 title: Correlazioni
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - statistica
-  - reti
-  - finanza
 aliases:
   - Correlations
 source: Lezione 01 - Introduzione alla Complessità

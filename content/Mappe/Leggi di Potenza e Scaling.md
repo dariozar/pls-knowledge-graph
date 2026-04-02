@@ -2,9 +2,6 @@
 title: MOC - Leggi di Potenza e Scaling
 date: 2026-04-02
 tags:
-  - MOC
-  - scaling
-  - leggi-di-potenza
 aliases:
   - Map of Content - Leggi di Potenza e Scaling
 source: Lezione 01 e 02

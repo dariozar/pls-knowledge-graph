@@ -2,9 +2,6 @@
 title: Modelli ad Agente
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - simulazione
-  - modelli-computazionali
 aliases:
   - Agent Based Models
   - ABM

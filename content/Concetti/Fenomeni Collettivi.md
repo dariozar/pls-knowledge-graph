@@ -2,9 +2,6 @@
 title: Fenomeni Collettivi
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - fenomeni-collettivi
-  - soc-ph
 aliases:
   - Collective Phenomena
 source: Lezione 01 - Introduzione alla Complessità

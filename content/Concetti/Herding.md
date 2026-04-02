@@ -2,9 +2,6 @@
 title: Herding
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - fenomeni-collettivi
-  - finanza
 aliases:
   - Effetto Gregge
   - Herding Behavior

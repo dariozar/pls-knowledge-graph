@@ -2,9 +2,6 @@
 title: Inverted Repeats
 date: 2026-04-02
 tags:
-  - biologia
-  - genomica
-  - bioinformatica
 aliases:
   - Inverted Repeats (Biologia)
   - IR

@@ -2,9 +2,6 @@
 title: Distribuzione Chi-Quadrato
 date: 2026-04-02
 tags:
-  - statistica
-  - test-statistici
-  - biologia
 aliases:
   - Chi-Quadrato di Pearson
   - Pearson Chi-Squared

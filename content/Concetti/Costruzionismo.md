@@ -2,9 +2,6 @@
 title: Costruzionismo
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - metodologia
-  - complessità
 aliases:
   - Constructionism
 source: Lezione 01 - Introduzione alla Complessità

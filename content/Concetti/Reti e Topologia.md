@@ -2,9 +2,6 @@
 title: Reti e Topologia
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - reti
-  - teoria-dei-grafi
 aliases:
   - Networks and Topology
   - Grafi

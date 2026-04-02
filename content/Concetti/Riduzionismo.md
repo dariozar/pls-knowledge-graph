@@ -2,9 +2,6 @@
 title: Riduzionismo
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - metodologia
-  - complessità
 aliases:
   - Reductionism
 source: Lezione 01 - Introduzione alla Complessità

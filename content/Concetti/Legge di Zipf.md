@@ -2,10 +2,6 @@
 title: Legge di Zipf
 date: 2026-04-02
 tags:
-  - fisica-statistica
-  - leggi-di-potenza
-  - linguistica
-  - genomica
 aliases:
   - Zipf's Law
   - Legge di Zipf

@@ -2,9 +2,6 @@
 title: Invarianza di Scala
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - scaling
-  - leggi-di-potenza
 aliases:
   - Scaling
   - Scale Invariance

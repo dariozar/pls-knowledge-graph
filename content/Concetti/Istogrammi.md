@@ -2,9 +2,6 @@
 title: Istogrammi
 date: 2026-04-02
 tags:
-  - statistica
-  - misure
-  - visualizzazione
 aliases:
   - Istogramma
   - Histogram

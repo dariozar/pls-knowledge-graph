@@ -2,9 +2,6 @@
 title: Leggi di Potenza
 date: 2024-04-16
 tags:
-  - fisica-statistica
-  - leggi-di-potenza
-  - scaling
 aliases:
   - Power Laws
 source: Lezione 01 e 02 - Introduzione alla Complessità / Fenomeni Emergenti e Leggi di Potenza

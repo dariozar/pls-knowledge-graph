@@ -2,9 +2,6 @@
 title: Clustering Gerarchico
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - statistica
-  - metodi-computazionali
 aliases:
   - Hierarchical Clustering
 source: Lezione 01 - Introduzione alla Complessità

@@ -2,9 +2,6 @@
 title: Sistemi Termodinamici
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - termodinamica
-  - sistemi-complessi
 aliases:
   - Thermodynamic Systems
 source: Lezione 01 - Introduzione alla Complessità

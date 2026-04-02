@@ -2,9 +2,6 @@
 title: Sistemi Complessi
 date: 2026-03-26
 tags:
-  - fisica-statistica
-  - sistemi-complessi
-  - complessità
 aliases:
   - Complex Systems
 source: Lezione 01 - Introduzione alla Complessità
