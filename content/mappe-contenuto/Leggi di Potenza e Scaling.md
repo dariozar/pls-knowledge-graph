@@ -7,7 +7,7 @@ tags:
   - leggi-di-potenza
 aliases:
   - Map of Content - Leggi di Potenza e Scaling
-source: Lezione 01 - Introduzione alla Complessità
+source: Lezione 01 e 02
 ---
 
 # MOC - Leggi di Potenza e Scaling
@@ -18,6 +18,7 @@ Questa mappa del contenuto collega i concetti relativi al scaling e alle leggi d
 
 - [[Leggi di Potenza]] - Relazioni funzionali del tipo $y = A x^\alpha$ che descrivono distribuzioni e fenomeni senza scala tipica.
 - [[Invarianza di Scala]] - Proprietà dei sistemi descritti da leggi di potenza, che rimangono invarianti sotto trasformazioni di scala.
+- [[Legge di Zipf]] - Caso specifico di legge di potenza: occorrenza vs rango, con applicazioni in linguistica, economia e genomica.
 
 ## Applicazioni e contesti
 
@@ -30,3 +31,5 @@ Questa mappa del contenuto collega i concetti relativi al scaling e alle leggi d
 
 - [[Correlazioni]] - Le correlazioni possono mostrare scaling.
 - [[Clustering Gerarchico]] - Le distribuzioni delle distanze possono seguire leggi di potenza.
+- [[Istogrammi]] - Strumento per visualizzare distribuzioni che possono seguire leggi di potenza.
+- [[Distribuzione Chi-Quadrato]] - Test statistico usato in analisi di sequenze genomiche.

@@ -6,7 +6,7 @@ tags:
   - complessità
 aliases:
   - Map of Content - Complessità
-source: Lezione 01 - Introduzione alla Complessità
+source: Lezione 01 e 02
 ---
 
 # MOC - Complessità
@@ -27,6 +27,15 @@ Questa mappa del contenuto collega i concetti fondamentali della scienza dei sis
 - [[Herding]] - Comportamento di gregge in animali e sistemi sociali.
 - [[Modelli ad Agente]] - Strumenti computazionali per simulare sistemi complessi.
 
+## Esempi biologici
+
+- [[Inverted Repeats]] - Sequenze regolative nei genomi virali, esempio di emergenza.
+- [[Distribuzione Chi-Quadrato]] - Test statistico per verificare l'ipotesi nulla nei genomi.
+
+## Strumenti di analisi
+
+- [[Istogrammi]] - Visualizzazione delle distribuzioni di frequenza.
+
 ## Collegamenti trasversali
 
 - [[Correlazioni]] - Misure di relazione tra componenti.
@@ -34,3 +43,4 @@ Questa mappa del contenuto collega i concetti fondamentali della scienza dei sis
 - [[Reti e Topologia]] - Linguaggio per descrivere relazioni tra componenti.
 - [[Invarianza di Scala]] - Proprietà di scaling dei sistemi complessi.
 - [[Leggi di Potenza]] - Descrizione matematica del scaling.
+- [[Legge di Zipf]] - Caso specifico di legge di potenza.

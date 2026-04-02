@@ -20,6 +20,7 @@ Benvenuto nel vault per il corso di Fisica Statistica e Sistemi Complessi.
 ## Lezioni
 
 - [[Lezione 01 - Introduzione alla Complessità]] - Introduzione al concetto di complessità, riduzionismo, costruzionismo, fenomeni collettivi, emergenza, scaling.
+- [[Lezione 02 - Fenomeni Emergenti e Leggi di Potenza]] - Fenomeni emergenti nei genomi virali, Inverted Repeats, test del chi-quadrato, istogrammi, leggi di potenza, Legge di Zipf.
 
 ## Note Concettuali
 
@@ -36,6 +37,10 @@ Benvenuto nel vault per il corso di Fisica Statistica e Sistemi Complessi.
 - [[Fenomeni Emergenti]]
 - [[Invarianza di Scala]]
 - [[Leggi di Potenza]]
+- [[Inverted Repeats]]
+- [[Distribuzione Chi-Quadrato]]
+- [[Legge di Zipf]]
+- [[Istogrammi]]
 
 ## Struttura del Vault
 
@@ -46,4 +51,4 @@ Benvenuto nel vault per il corso di Fisica Statistica e Sistemi Complessi.
 
 ## Ultimo Aggiornamento
 
-26 Marzo 2026
+2 Aprile 2026
