@@ -1,6 +1,6 @@
 ---
 title: Leggi di Potenza
-date: 2024-04-16
+date: 2026-04-02
 tags:
 aliases:
   - Power Laws
