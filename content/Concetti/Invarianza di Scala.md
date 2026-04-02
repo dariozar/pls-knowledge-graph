@@ -8,7 +8,7 @@ aliases:
 source: Lezione 01 - Introduzione alla Complessità
 ---
 > [!definition] Invarianza di scala
-> L'invarianza di scala (o scaling) è una proprietà di sistemi fisici, biologici, biomedici, ecc., che si osserva quando sono descritti da una legge funzionale che non cambia forma se si scalano le scale tipiche o dimensioni, a meno di un fattore comune. Il caso più tipico è dato da sistemi in cui certe proprietà sono descritte da [[leggi di potenza]]: $f(x) = A x^\alpha$.
+> L'invarianza di scala (o scaling) è una proprietà di sistemi fisici, biologici, biomedici, ecc., che si osserva quando sono descritti da una legge funzionale che non cambia forma se si scalano le scale tipiche o dimensioni, a meno di un fattore comune. Il caso più tipico è dato da sistemi in cui certe proprietà sono descritte da [[Leggi di Potenza]]: $f(x) = A x^\alpha$.
 
 Quando un sistema è invariante di scala, significa che non ha una scala tipica o una dimensione tipica; al contrario, tutte le scale/dimensioni sono presenti nel sistema. L'invarianza di scala si manifesta in diversi contesti: scale spaziali (geometrie frattali), scale temporali (cluster di spin senza dimensione tipica), e sistemi alla criticità (transizioni di fase di primo ordine con Cv divergente).
 
