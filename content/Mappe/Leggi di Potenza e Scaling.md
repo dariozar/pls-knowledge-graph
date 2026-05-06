@@ -1,11 +1,17 @@
 ---
 title: MOC - Leggi di Potenza e Scaling
-date: 2026-04-02
+date: 2024-04-16
 tags:
+  - MOC
+  - scaling
+  - leggi-di-potenza
 aliases:
   - Map of Content - Leggi di Potenza e Scaling
 source: Lezione 01 e 02
 ---
+
+# MOC - Leggi di Potenza e Scaling
+
 Questa mappa del contenuto collega i concetti relativi al scaling e alle leggi di potenza, fondamentali nello studio dei sistemi complessi.
 
 ## Concetti chiave

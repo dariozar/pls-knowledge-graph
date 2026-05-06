@@ -1,11 +1,17 @@
 ---
 title: Sistemi Complessi
-date: 2026-03-26
+date: 2024-04-16
 tags:
+  - fisica-statistica
+  - sistemi-complessi
+  - complessità
 aliases:
   - Complex Systems
 source: Lezione 01 - Introduzione alla Complessità
 ---
+
+# Sistemi Complessi
+
 > [!definition] Definizione di Sistema Complesso
 > Un sistema complesso è un insieme di molti componenti interagenti il cui comportamento collettivo non è immediatamente deducibile dalle regole che governano le singole componenti. I dettagli delle interazioni sono cruciali per comprendere le proprietà emergenti del sistema.
 

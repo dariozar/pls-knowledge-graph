@@ -1,11 +1,17 @@
 ---
 title: Leggi di Potenza
-date: 2026-04-02
+date: 2024-04-16
 tags:
+  - fisica-statistica
+  - leggi-di-potenza
+  - scaling
 aliases:
   - Power Laws
 source: Lezione 01 e 02 - Introduzione alla Complessità / Fenomeni Emergenti e Leggi di Potenza
 ---
+
+# Leggi di Potenza
+
 > [!definition] Legge di potenza
 > Una legge di potenza è una relazione funzionale del tipo $y = A x^\alpha$, dove $A$ è una costante di proporzionalità e $\alpha$ è l'esponente di scala. In un grafico log-log, una legge di potenza appare come una retta con pendenza $-\alpha$. Le leggi di potenza sono ubiquitarie in natura e descrivono fenomeni che mostrano invarianza di scala.
 

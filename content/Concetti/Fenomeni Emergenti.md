@@ -1,12 +1,18 @@
 ---
 title: Fenomeni Emergenti
-date: 2026-03-26
+date: 2024-04-16
 tags:
+  - fisica-statistica
+  - emergenza
+  - auto-organizzazione
 aliases:
   - Emergent Phenomena
   - Emergenza
 source: Lezione 01 e 02 - Introduzione alla Complessità / Fenomeni Emergenti e Leggi di Potenza
 ---
+
+# Fenomeni Emergenti
+
 > [!definition] Fenomeno emergente
 > Un fenomeno emergente (o proprietà emergente) è un comportamento o una proprietà di un sistema che si manifesta quando un gran numero di entità semplici interagisce, ma che non è presente nelle singole entità e non è deducibile dalle loro proprietà individuali. L'emergenza riguarda le proprietà dell'insieme rispetto a quelle delle sue parti.
 

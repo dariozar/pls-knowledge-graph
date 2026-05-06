@@ -1,12 +1,18 @@
 ---
 title: Legge di Zipf
-date: 2026-04-02
 tags:
+  - fisica-statistica
+  - leggi-di-potenza
+  - linguistica
+  - genomica
 aliases:
   - Zipf's Law
   - Legge di Zipf
 source: Lezione 02 - Fenomeni Emergenti e Leggi di Potenza
 ---
+
+# Legge di Zipf
+
 > [!definition] Legge di Zipf
 > La Legge di Zipf afferma che l'occorrenza $P_i$ di un certo evento, in funzione del rango $i$, segue una [[Leggi di Potenza|legge di potenza]]:
 >

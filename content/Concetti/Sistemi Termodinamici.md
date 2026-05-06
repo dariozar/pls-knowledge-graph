@@ -1,11 +1,17 @@
 ---
 title: Sistemi Termodinamici
-date: 2026-03-26
+date: 2024-04-16
 tags:
+  - fisica-statistica
+  - termodinamica
+  - sistemi-complessi
 aliases:
   - Thermodynamic Systems
 source: Lezione 01 - Introduzione alla Complessità
 ---
+
+# Sistemi Termodinamici
+
 > [!definition] Sistema Termodinamico
 > Un sistema termodinamico è un sistema fisico composto da un numero molto grande di componenti (N ~ numero di Avogadro) che interagiscono tra loro. La descrizione deterministica del moto di ciascuna componente richiederebbe la risoluzione di 3N equazioni differenziali accoppiate, compito praticamente impossibile sia per limiti quantistici sia per la complessità computazionale.
 

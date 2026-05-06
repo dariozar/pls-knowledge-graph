@@ -1,36 +1,51 @@
 ---
 title: Lezione 01 - Introduzione alla Complessità
-date: 2026-03-26
+date: 2024-04-16
 tags:
+  - lezione
+  - fisica-statistica
+  - complessità
 aliases:
   - Lezione 1 - Introduzione alla Complessità
 source: SLIDES/Lezione_PLS_FIS-STAT-SIST-COMPL_01.pptx
 ---
-Questa lezione fornisce un'introduzione ai concetti fondamentali dei sistemi complessi: dalla definizione di complessità ai fenomeni emergenti, dal riduzionismo ai modelli ad agente.
 
-## Sistemi Complessi e Termodinamica
+# Lezione 01 - Introduzione alla Complessità
 
-- [[Sistemi Complessi]] — Definizione e caratteristiche dei sistemi composti da molte parti interagenti in cui i dettagli delle interazioni sono cruciali
-- [[Sistemi Termodinamici]] — Approccio termodinamico allo studio della complessità
+Questa lezione fornisce un'introduzione ai concetti fondamentali della scienza dei sistemi complessi, con particolare riferimento alla fisica statistica e alle sue applicazioni.
 
-## Approcci Filosofici
+## Riassunto degli slide
 
-- [[Riduzionismo]] — Spiegare il tutto riducendolo alle sue componenti
-- [[Costruzionismo]] — Costruire la complessità a partire da regole semplici
+### Slide 1-3: Introduzione e definizioni
+- Titolo del corso: Fisica Statistica e Sistemi Complessi.
+- Docente: Salvatore Miccichè, Università degli Studi di Palermo.
+- Lezione dedicata all'introduzione del concetto di complessità.
 
-## Modelli e Fenomeni
+### Slide 10-15: Sistemi Complessi vs Deterministici
+- Definizione di [[Sistemi Complessi]]: "punti materiali" interagenti in cui i dettagli delle interazioni sono cruciali.
+- Distinzione tra sistemi deterministici (meccanica classica dei punti materiali liberi) e sistemi termodinamici ([[Sistemi Termodinamici]]).
+- La descrizione microscopica di un sistema termodinamico è impraticabile per il numero di equazioni accoppiate e i limiti quantistici.
+- Introduzione della [[Riduzionismo]] e [[Costruzionismo]].
 
-- [[Modelli ad Agente]] — Simulazioni computazionali basate su agenti individuali
-- [[Fenomeni Collettivi]] — Comportamenti emergenti dall'interazione di molti individui
-- [[Herding]] — Comportamento gregario e decisione collettiva
-- [[Fenomeni Emergenti]] — Proprietà che nascono dalle interazioni tra componenti
+### Slide 18-22: Riduzionismo e Costruzionismo
+- [[Riduzionismo]]: capacità di ridurre tutto a leggi fondamentali semplici.
+- [[Costruzionismo]]: capacità di ricostruire l'universo da quelle leggi.
+- Fallimento del costruzionismo a causa di scala e complessità: lo studio degli "aggregati" è tanto fondamentale quanto lo studio delle componenti (definizione di G. Parisi).
 
-## Proprietà dei Sistemi Complessi
+### Slide 23-26: Metodi di analisi
+- [[Correlazioni]]: analisi delle correlazioni tra prezzi azionari mediante coefficiente di Pearson.
+- [[Clustering Gerarchico]]: tecnica di filtraggio dell'informazione tramite dendrogrammi.
+- [[Reti e Topologia]]: rappresentazione delle relazioni tramite nodi e link; metriche come degree, betweenness, shortest-path.
+- [[Modelli ad Agente]]: simulazioni di problemi complessi tramite agenti che seguono regole semplici (es. NetLogo).
 
-- [[Invarianza di Scala]] — Assenza di scale caratteristiche nei sistemi complessi
-- [[Correlazioni]] — Relazioni statistiche tra variabili
-- [[Reti e Topologia]] — Struttura di connessione nei sistemi complessi
+### Slide 28-29: Fenomeni collettivi
+- [[Fenomeni Collettivi]]: esempi di comportamento pedonale e disastri delle folle (Moussaïd, Helbing, Theraulaz).
+- [[Herding]]: effetto gregge in animali e mercati finanziari (modello Lux-Marchesi).
 
+### Slide 30-32: Emergenza e Scaling
+- [[Fenomeni Emergenti]]: proprietà che emergono dall'interazione tra agenti semplici; esempio della sincronizzazione spontanea dei metronomi.
+- [[Invarianza di Scala]]: proprietà dei sistemi descritti da [[Leggi di Potenza]]; assenza di scala tipica.
+- Esempi di scaling: scale spaziali (frattali), sistemi alla criticità, scale temporali.
 
 ## Collegamenti ai concetti
 
