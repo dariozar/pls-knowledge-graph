@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Fisica e Sistemi Complessi",
+    pageTitle: "Fisica Statistica e Sistemi Complessi",
     pageTitleSuffix: " - PLS",
     enableSPA: true,
     enablePopovers: true,
